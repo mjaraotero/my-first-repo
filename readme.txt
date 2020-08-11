@@ -1,2 +1,2 @@
 Welcome
-conflicting second line
+línea 2
